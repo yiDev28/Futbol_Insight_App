@@ -1,0 +1,21 @@
+html,
+body {
+    height: 100%;
+}
+.wrapper {
+    background-color: #f0e2e2;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    height: 130px;
+    margin-bottom: 10px;
+}
+.body{
+    max-width: 300px;
+    width: 100%;
+    text-align: center;
+}
